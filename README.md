@@ -35,7 +35,7 @@ label.attributedPlaceholder = ... // NSAttributedString (optional)
 
 ```swift
 let label: UILabel = UILabel()
-label.placeholder = @"How are you?"
+label.placeholder = "How are you?"
 label.placeholderColor = UIColor.lightGray // optional
 label.attributedPlaceholder = ... // NSAttributedString (optional)
 ```
