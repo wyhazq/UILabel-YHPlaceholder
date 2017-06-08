@@ -31,16 +31,6 @@ label.placeholderColor = UIColor.lightGrayColor; // optional
 label.attributedPlaceholder = ... // NSAttributedString (optional)
 ```
 
-- **Implement Swift**:
-
-```swift
-let label: UILabel = UILabel()
-label.placeholder = "How are you?"
-label.placeholderColor = UIColor.lightGray // optional
-label.attributedPlaceholder = ... // NSAttributedString (optional)
-```
-
-
 License
 -------
 
