@@ -31,6 +31,10 @@ label.placeholderColor = UIColor.lightGrayColor; // optional
 label.attributedPlaceholder = ... // NSAttributedString (optional)
 ```
 
+- **Storyboard**:
+
+![Alt text](Storyboard.png)
+
 License
 -------
 
